@@ -10,6 +10,7 @@ function App() {
     <>
       <TodoInsert/>
       <TodoList/>
+      {/* <Counter/> */}
     </>
   );
 }
